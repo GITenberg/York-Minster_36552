@@ -1,0 +1,32 @@
+_repo: York-Minster_36552
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ansted, Alexander
+    gutenberg_agent_id: '38336'
+    url: http://www.gutenberg.org/2009/agents/38336
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Purey-Cust, Arthur P. (Arthur Perceval)
+    alias: Purey-Cust, A. P. (Arthur Perceval)
+    birthdate: 1828
+    gutenberg_agent_id: '38345'
+    url: http://www.gutenberg.org/2009/agents/38345
+description: ''
+gutenberg_issued: '2011-06-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Cathedrals -- England'
+- !lcsh 'York Minster'
+- !lcc 'NA'
+title: York Minster
+url: http://www.gutenberg.org/ebooks/36552
